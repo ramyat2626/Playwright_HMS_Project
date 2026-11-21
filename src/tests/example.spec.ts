@@ -16,3 +16,20 @@ test('get started link', async ({ page }) => {
   // Expects page to have a heading with the name of Installation.
   await expect(page.getByRole('heading', { name: 'Installation' })).toBeVisible();
 });
+
+
+
+/*
+
+https://github.com/ramyat2626/playwright.git
+echo "# playwright" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ramyat2626/playwright.git
+git push -u origin main
+
+
+
+*/

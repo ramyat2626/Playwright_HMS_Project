@@ -1,0 +1,20 @@
+[
+    {   
+    "doc_name": "Dr Smith",
+    "doc_specialization": "Cardiology",
+    "doc_location": "Hyderabad",
+    "doc_email": "smith@gmail.com",
+    "doc_phone": "9987654321"
+    },
+
+    {
+    "doc_name": "Dr John",
+    "doc_specialization": "Cardiology",
+    "doc_location": "Hyderabad",
+    "doc_email": "john@gmail.com",
+    "doc_phone": "9987654321"
+    }
+]
+    
+
+
